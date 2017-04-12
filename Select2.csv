@@ -1,4 +1,4 @@
-school;sex;age;address;1amsize;Pstatus;Medu;1edu;Mjob;1job;reason;guardian;traveltime;studytime;1ailures;schoolsup;1amsup;paid;activities;nursery;higher;internet;romantic;1amrel;1reetime;goout;Dalc;Walc;health;absences;G1;G2;G3;Passed
+school;sex;age;address;famsize;Pstatus;Medu;fedu;Mjob;fjob;reason;guardian;traveltime;studytime;failures;schoolsup;famsup;paid;activities;nursery;higher;internet;romantic;famrel;freetime;goout;Dalc;Walc;health;absences;G1;G2;G3;Passed
 0;1;18;1;0;0;4;4;4;0;0;0;2;2;0;1;0;0;0;1;1;0;0;4;3;4;1;1;3;6;5;6;6;fail
 0;1;17;1;0;1;1;1;4;3;0;1;1;2;0;0;1;0;0;0;1;1;0;5;3;3;1;1;3;4;5;5;6;fail
 0;1;15;1;1;1;1;1;4;3;3;0;1;2;3;1;0;1;0;1;1;1;0;4;3;2;2;3;3;10;7;8;10;pass
